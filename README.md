@@ -1,5 +1,3 @@
- 
- 
 ## LESSON1&2 TASK1 ##
 ## How to run/test this project
 - ensure you have git installed properly on your machine
@@ -15,5 +13,4 @@ Click [Here](https://clementify.github.io/LESSON-1-AND-2-_TASK1_OBI-CLEMENTINA/)
 - Mr Ekene
 - Mr Johnson Promise (JP)
 - Mr Patrick
-
 ##This is a work of LM TechHub.
